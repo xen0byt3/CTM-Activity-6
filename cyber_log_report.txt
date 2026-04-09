@@ -1,0 +1,60 @@
+===== CYBER THREAT LOG REPORT =====
+Name: 
+Handle:
+Start Time: 
+End Time: 
+Duration (minutes): 
+Score: 
+Rating: 
+
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+---- Threat Logs ----
+Threat:
+CRITICAL:
+CRITICAL:
+-------------------
+===================================
