@@ -1,12 +1,12 @@
 # CTM_Activity 6 VM – Cyber Threat Monitoring Simulation
 
 ##  Activity Overview
-This activity is a **Cyber Threat Monitoring Simulation** designed for students to practice identifying and mitigating cyber threats.  
-Students will run a Python program that:
+This activity is a **Cyber Threat Monitoring Simulation** designed for you to practice identifying and mitigating cyber threats.  
+You will run a Python program that:
 
 - Displays **10 random realistic cyber attacks**  
 - Shows **logs for each attack**  
-- Requires students to select the **correct port to mitigate each threat**  
+- Requires you to select the **correct port to mitigate each threat**  
 - Measures **time taken, score, and rating**  
 - Generates a **log report file** after completion  
 
