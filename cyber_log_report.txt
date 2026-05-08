@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: ado
+Handle: ado
+Start Time: 2026-05-08 17:24:34.061498
+End Time: 2026-05-08 17:25:31.867548
+Duration (minutes): 0.96
+Score: 9/10
+Rating: ADVANCED
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+NOTICE: Suspicious traffic pattern detected targeting port 23
+NOTICE: Suspicious traffic pattern detected targeting port 23
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.177 on port 53
+CRITICAL: Ransomware activity suspected via DNS Amplification DDoS
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service SMTP Phishing Campaign
+ALERT: Failed login attempt detected from 192.168.1.10 on port 25
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+WARNING: Multiple authentication failures for service HTTP Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 80
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+CRITICAL: Ransomware activity suspected via RDP Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 3389
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service SMB Ransomware Attack
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.189 on port 110
+ALERT: Failed login attempt detected from 192.168.1.206 on port 110
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+CRITICAL: Ransomware activity suspected via MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.232 on port 3306
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+NOTICE: Suspicious traffic pattern detected targeting port 21
+WARNING: Multiple authentication failures for service FTP Credential Sniffing
 -------------------
 ===================================
