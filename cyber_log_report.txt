@@ -58,3 +58,19 @@ CRITICAL:
 CRITICAL:
 -------------------
 ===================================
+===== CYBER THREAT LOG REPORT =====
+
+Name: John Ryan Celestra
+Handle: Striker1968
+Start Time: 3:00 PM
+End Time: 3:20 PM
+Duration (minutes): 20
+Score: 8/10
+Rating: Good
+
+---- Threat Logs ----
+Threat: SMTP Phishing Campaign
+CRITICAL: Suspicious traffic detected
+CRITICAL: Failed login attempts
+
+==============================
