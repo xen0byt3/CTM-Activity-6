@@ -58,3 +58,54 @@ CRITICAL:
 CRITICAL:
 -------------------
 ===================================
+
+===== CYBER THREAT LOG REPORT =====
+Name: Jim Pierre Reyes
+Handle: CypherFilter
+Start Time: 2026-08-10 19:14:40.843612
+End Time: 2026-08-10 19:17:12.143411
+Duration (minutes): 2.52
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: HTTP Web Exploit
+WARNING: Multiple authentication failures for service HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via HTTP Web Exploit
+-------------------
+Threat: POP3 Credential Sniffing
+WARNING: Multiple authentication failures for service POP3 Credential Sniffing
+CRITICAL: Ransomware activity suspected via POP3 Credential Sniffing
+-------------------
+Threat: Proxy Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 8080
+NOTICE: Suspicious traffic pattern detected targeting port 8080
+-------------------
+Threat: HTTPS Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMB Ransomware Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via SMB Ransomware Attack
+-------------------
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 53
+WARNING: Multiple authentication failures for service DNS Amplification DDoS
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via Telnet Credential Theft
+WARNING: Multiple authentication failures for service Telnet Credential Theft
+-------------------
+Threat: FTP Credential Sniffing
+CRITICAL: Ransomware activity suspected via FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 25
+-------------------
+===================================
