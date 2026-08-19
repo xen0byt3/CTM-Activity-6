@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Star Magbanua
+Handle: C0l-1
+Start Time: 2026-08-11 16:42:43.306643
+End Time: 2026-08-19 16:44:43.572639
+Duration (minutes): 2.00
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: MySQL Data Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.200 on port
+-------------------
+Threat: SMB Ransomware Attack
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: POP3 Credential Sniffing
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Proxy Web Exploit
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: RDP Brute Force Attack
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTP Web Exploit
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+===================================
