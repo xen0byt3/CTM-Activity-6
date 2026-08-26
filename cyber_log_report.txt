@@ -58,3 +58,57 @@ CRITICAL:
 CRITICAL:
 -------------------
 ===================================
+
+
+
+===== CYBER THREAT LOG REPORT =====
+Name: mark jomel padua
+Handle: Agila-X
+Start Time: 2026-08-26 19:48:20.034171
+End Time: 2026-08-26 19:49:50.817988
+Duration (minutes): 1.51
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.94 on port
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: Proxy Web Exploit
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: POP3 Credential Sniffing
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: RDP Brute Force Attack
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTP Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.155 on port
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+===================================
+
