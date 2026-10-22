@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: asd
+Handle: sad
+Start Time: 2026-10-22 19:28:37.222219
+End Time: 2026-10-22 19:28:43.007717
+Duration (minutes): 0.10
+Score: 4/10
+Rating: BEGINNER
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.235 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.132 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.41 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.203 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
 -------------------
 ===================================
