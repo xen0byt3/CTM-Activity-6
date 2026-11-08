@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Shielo Angeline S. Amor
+Handle: koisheshell
+Start Time: 2026-11-08 17:54:27.710909
+End Time: 2026-11-08 17:55:54.872816
+Duration (minutes): 1.45
+Score: 9/10
+Rating: ADVANCED
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.209 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+ALERT: Failed login attempt detected from 192.168.1.236 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.250 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.153 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.66 on port
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.241 on port
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.95 on port
+WARNING: Multiple authentication failures for service
 -------------------
 ===================================
