@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Denver Lyndon Aerol S. San Diego
+Handle: Bitstream Breaker
+Start Time: 2026-11-13 19:01:50.793945
+End Time: 2026-11-13 19:03:50.831022
+Duration (minutes): 2.00
+Score: 10/10
+Rating: EXPERT
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.222 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.74 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.75 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+ALERT: Failed login attempt detected from 192.168.1.15 on port
+ALERT: Possible brute force attempt detected
 -------------------
 ===================================
