@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Star Life
+Handle: encryptunes
+Start Time: 2026-11-23 22:22:09.745547
+End Time: 2026-11-23 22:23:25.267211
+Duration (minutes): 1.26
+Score: 10/10
+Rating: EXPERT
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.198 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.174 on port
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.242 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.199 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.100 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.81 on port
 -------------------
 ===================================
